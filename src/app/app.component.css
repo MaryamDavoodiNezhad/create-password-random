@@ -1,0 +1,18 @@
+.generatePassword{
+    background-color: rgba(252, 230, 209, 0.861);
+    border: 2px solid rgb(180, 74, 8);
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.generatePassword div{
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+input {
+    margin-left: 3px !important;
+}
